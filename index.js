@@ -6,7 +6,7 @@ let newQuoteButton = document.getElementById("newQuoteButton")
 newQuoteButton.addEventListener('click',newQuote)
 
 function newQuote(){
-    fetch("http://localhost/projects/quotes-generator/quotes.JSON")
+    fetch("quotes.JSON")
     .then( res => res.json())
     .then( data => {
         let random = Math.floor(Math.random() * data.length+1)
