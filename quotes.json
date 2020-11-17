@@ -30,5 +30,38 @@
     {
         "author": "Ralph Waldo Emerson" ,
         "content": "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment."
-        }
+    },
+    {
+        "author": "George Bernard Shaw" ,
+        "content": "Life isn't about finding yourself. Life is about creating yourself."
+    },
+    {
+        "author": "Woody Allen" ,
+        "content": "I'm not afraid of death; I just don't want to be there when it happens."
+    },
+    {
+        "author": "Oscar Wilde" ,
+        "content": "If one cannot enjoy reading a book over and over again, there is no use in reading it at all."
+    },
+    {
+        "author": "Albert Einstein" ,
+        "content": "Logic will get you from A to Z; imagination will get you everywhere."
+    },
+    {
+        "author": "Bob Marley" ,
+        "content": "The truth is, everyone is going to hurt you. You just got to find the ones worth suffering for."
+    },
+    {
+        "author": "Abraham Lincoln" ,
+        "content": "Folks are usually about as happy as they make their minds up to be."
+    },
+    {
+        "author": "Albert Einstein" ,
+        "content": "Anyone who has never made a mistake has never tried anything new."
+    },
+    {
+        "author": "Marianne Williamson" ,
+        "content": "Our deepest fear is not that we are inadequate. Our deepest fear is that we are powerful beyond measure. It is our light, not our darkness that most frightens us. We ask ourselves, 'Who am I to be brilliant, gorgeous, talented, fabulous?' Actually, who are you not to be? You are a child of God. Your playing small does not serve the world. There is nothing enlightened about shrinking so that other people won't feel insecure around you. We are all meant to shine, as children do. We were born to make manifest the glory of God that is within us. It's not just in some of us; it's in everyone. And as we let our own light shine, we unconsciously give other people permission to do the same. As we are liberated from our own fear, our presence automatically liberates others."
+    }
+
 ]
