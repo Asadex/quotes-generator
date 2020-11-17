@@ -1,2 +1,2 @@
-# quotes-generator
-Quotes generator using public API
+# Quotes-generator
+Quotes generator using public API with AJAX
