@@ -6,7 +6,14 @@ newQuoteButton.addEventListener('click',newQuote)
 
 function newQuote(){
     fetch('https://type.fit/api/quotes')
-    .then( response => response.json())
+    .then( response => {
+        if(response)
+            return response.json();
+        else {
+            author.textContent = '~ Me';
+            quote.innerHTML =  " &nbsp Something went wrong, try again.";
+        }
+    })
     .then( data => {
         let random = Math.floor(Math.random() * data.length+ 1);
 
